@@ -19,6 +19,7 @@
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
       <mj-class name="T18-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="700"/>
+      <mj-class name="T18-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="400"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
       <mj-class name="T16-500" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="500"/>
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="400"/>
@@ -27,7 +28,8 @@
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="cB" color="#ffffff"/>
+      <mj-class name="cW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
       <mj-class name="cB0" color="#0d3abc"/>
       <mj-class name="bgB0" background-color="#0d3abc"/>
       <mj-class name="cB-1" color="#787fbd"/>
@@ -233,21 +235,21 @@
         </mj-group>
       </mj-section>
     </mj-wrapper>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text>Astuces bonus</mj-text>
-        <mj-text>Consulte des vidéos et guides en ligne pour te préparer aux entretiens.</mj-text>
-        <mj-text>N'hésite pas à demander conseil à ton conseiller d'orientation ou à la mission locale.</mj-text>
-        <mj-text>Tu peux le faire&nbsp;! La clé, c'est ta motivation et ta détermination.</mj-text>
-        <mj-text>Alors, fonce, prépare ton dossier, et montre ce que tu vaux&nbsp;!</mj-text>
+        <mj-text mj-class="T18-700 cB0">Astuces bonus</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">Consulte des vidéos et guides en ligne pour te préparer aux entretiens.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">N'hésite pas à demander conseil à ton conseiller d'orientation ou à la mission locale.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">Tu peux le faire&nbsp;! La clé, c'est ta motivation et ta détermination.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">Alors, fonce, prépare ton dossier, et montre ce que tu vaux&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW" padding="20px">
       <mj-column>
-        <mj-text>On te souhaite plein de succès dans ta recherche d'alternance&nbsp;!</mj-text>
-        <mj-text>N'oublie pas&nbsp;: chaque étape te rapproche de ton futur professionnel. Reste positif(ve), persévère et crois en toi&nbsp;! </mj-text>
-        <mj-text>Tu as toutes les cartes en main pour réussir.</mj-text>
-        <mj-text>Nous sommes là pour te soutenir à chaque étape. N'hésite pas à revenir vers nous si tu as besoin de conseils ou d'aide supplémentaire.</mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT0">On te souhaite plein de succès dans ta recherche d'alternance&nbsp;!</mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT0">N'oublie pas&nbsp;: chaque étape te rapproche de ton futur professionnel. Reste positif(ve), persévère et crois en toi&nbsp;! </mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT0">Tu as toutes les cartes en main pour réussir.</mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT0">Nous sommes là pour te soutenir à chaque étape. N'hésite pas à revenir vers nous si tu as besoin de conseils ou d'aide supplémentaire.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgB+2" padding="0">
