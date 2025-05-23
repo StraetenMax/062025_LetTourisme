@@ -151,9 +151,20 @@
           <mj-column width="80%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Reste motivé(e) et positif(ve)</mj-text>
             <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Chaque étape te rapproche de ton objectif. Garde en tête ton projet professionnel, ça te donnera de l'énergie pour continuer.</mj-text>
-            <mj-spacer height="35px"></mj-spacer>
           </mj-column>
         </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="80%" padding="20px" border-radius="10px" mj-class="bgB-1">
+          <mj-text padding="0 20px" mj-class="T16-400 cT1">En résumé, l'équilibre entre cours et alternance demande de l'organisation, de la discipline, mais aussi de la flexibilité. </mj-text>
+          <mj-text padding="0 20px" mj-class="T16-400 cT1">Avec une bonne gestion, tu vas tout déchirer&nbsp;!</mj-text>
+          <mj-text padding="0 20px" mj-class="T16-400 cT1">Tu peux le faire, je crois en toi&nbsp;!</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-spacer height="35px"></mj-spacer>
+        </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-wrapper padding="0 20px" background-color="#ffffff">
