@@ -94,7 +94,7 @@
       <mj-section padding="0">
         <mj-group width="88%">  
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/Tqh0dnnW/n01.png" alt="numéro 1"/>
+            <mj-image padding="0" width="50px" src="./images/cibleT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Organisation, c'est la clé&nbsp;! </mj-text>
@@ -103,7 +103,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%"> 
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/WpBcQNpW/n02.png" alt="numéro 2"/>
+            <mj-image padding="0" width="50px" src="./images/agendaT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Anticipe et priorise</mj-text>
@@ -112,7 +112,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/MDMJ7Ck6/n03.png" alt="numéro 3"/>
+            <mj-image padding="0" width="50px" src="./images/noteT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Gère ton temps intelligemment</mj-text>
@@ -121,7 +121,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/rRtVGtdb/n04.png" alt="numéro 4"/>
+            <mj-image padding="0" width="50px" src="./images/dialogT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Communique avec ton tuteur ou ton professeur</mj-text>
@@ -130,7 +130,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/hF1NYDSk/n05.png" alt="numéro 5"/>
+            <mj-image padding="0" width="50px" src="./images/lightT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Profite de ton expérience en entreprise</mj-text>
@@ -139,7 +139,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/JFcNsc20/n06.png" alt="numéro 6"/>
+            <mj-image padding="0" width="50px" src="./images/sportT062025.png" alt=""/>
           </mj-column>
           <mj-column width="80%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Prends soin de toi</mj-text>
@@ -148,7 +148,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/JFcNsc20/n06.png" alt="numéro 7"/>
+            <mj-image padding="0" width="50px" src="./images/partyT062025.png" alt=""/>
           </mj-column>
           <mj-column width="80%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Reste motivé(e) et positif(ve)</mj-text>
