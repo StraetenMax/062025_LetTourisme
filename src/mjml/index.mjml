@@ -94,7 +94,7 @@
       <mj-section padding="0">
         <mj-group width="88%">  
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="./images/cibleT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/cibleT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Organisation, c'est la clé&nbsp;! </mj-text>
@@ -103,7 +103,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%"> 
-            <mj-image padding="0" width="50px" src="./images/agendaT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/agendaT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Anticipe et priorise</mj-text>
@@ -112,7 +112,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="./images/noteT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/noteT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Gère ton temps intelligemment</mj-text>
@@ -121,7 +121,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="./images/dialogT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/dialogT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Communique avec ton tuteur ou ton professeur</mj-text>
@@ -130,7 +130,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="./images/lightT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/lightT062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Profite de ton expérience en entreprise</mj-text>
@@ -139,18 +139,18 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="./images/sportT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/sportT062025.png" alt=""/>
           </mj-column>
-          <mj-column width="80%" padding-top="10px" padding-bottom="30px">
+          <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Prends soin de toi</mj-text>
             <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Ne néglige pas ton sommeil, ton alimentation, et tes moments de détente. Un esprit reposé est plus efficace&nbsp;!</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="./images/partyT062025.png" alt=""/>
+            <mj-image padding="0" width="100px" src="./images/partyT062025.png" alt=""/>
           </mj-column>
-          <mj-column width="80%" padding-top="10px" padding-bottom="30px">
+          <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Reste motivé(e) et positif(ve)</mj-text>
             <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Chaque étape te rapproche de ton objectif. Garde en tête ton projet professionnel, ça te donnera de l'énergie pour continuer.</mj-text>
           </mj-column>
@@ -158,9 +158,9 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="80%" padding="20px" border-radius="10px" mj-class="bgB-1">
-          <mj-text padding="0 20px" mj-class="T16-400 cT1">En résumé, l'équilibre entre cours et alternance demande de l'organisation, de la discipline, mais aussi de la flexibilité. </mj-text>
-          <mj-text padding="0 20px" mj-class="T16-400 cT1">Avec une bonne gestion, tu vas tout déchirer&nbsp;!</mj-text>
-          <mj-text padding="0 20px" mj-class="T16-400 cT1">Tu peux le faire, je crois en toi&nbsp;!</mj-text>
+          <mj-text padding="0 20px" mj-class="T16-400 cW"><span style="font-weight:700;">En résumé</span>, l'équilibre entre cours et alternance demande de l'organisation, de la discipline, mais aussi de la flexibilité. </mj-text>
+          <mj-text padding="0 20px" mj-class="T16-400 cW">Avec une bonne gestion, tu vas tout déchirer&nbsp;!</mj-text>
+          <mj-text padding="0 20px" mj-class="T16-400 cW">Tu peux le faire, je crois en toi&nbsp;!</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
