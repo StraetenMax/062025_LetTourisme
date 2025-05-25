@@ -179,7 +179,7 @@
       <mj-section padding="0">
         <mj-group width="88%">  
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/Tqh0dnnW/n01.png" alt="numéro 1"/>
+            <mj-image padding="0" width="50px" src="./images/nb1.png" alt="numéro 1"/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Clarifie ton projet </mj-text>
@@ -188,7 +188,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%"> 
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/WpBcQNpW/n02.png" alt="numéro 2"/>
+            <mj-image padding="0" width="50px" src="./images/nb2.png" alt="numéro 2"/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Prépare ton dossier de champion(ne)</mj-text>
@@ -198,7 +198,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/MDMJ7Ck6/n03.png" alt="numéro 3"/>
+            <mj-image padding="0" width="50px" src="./images/nb3.png" alt="numéro 3"/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Recherche, recherche, recherche&nbsp;!</mj-text>
@@ -207,7 +207,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/rRtVGtdb/n04.png" alt="numéro 4"/>
+            <mj-image padding="0" width="50px" src="./images/nb4.png" alt="numéro 4"/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Entraîne-toi pour l'entretien</mj-text>
@@ -216,7 +216,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/hF1NYDSk/n05.png" alt="numéro 5"/>
+            <mj-image padding="0" width="50px" src="./images/nb5.png" alt="numéro 5"/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Soigne ta présentation </mj-text>
@@ -225,7 +225,7 @@
         </mj-group>
         <mj-group width="88%">
           <mj-column width="15%">
-            <mj-image padding="0" width="50px" src="https://i.ibb.co/JFcNsc20/n06.png" alt="numéro 6"/>
+            <mj-image padding="0" width="50px" src="./images/nb6.png" alt="numéro 6"/>
           </mj-column>
           <mj-column width="80%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Reste motivé(e) et persévère</mj-text>
@@ -246,7 +246,7 @@
     </mj-section>
     <mj-section mj-class="bgB-1" padding="20px">
       <mj-column width="20%">
-        <mj-image padding="5px" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png" alt="Camille, chargée des admissions pour le secteur tourisme"/>
+        <mj-image padding="5px" align="left" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png" alt="Camille, chargée des admissions pour le secteur tourisme"/>
       </mj-column>
       <mj-column width="80%">
         <mj-text padding="0 20px" mj-class="T18-400 cW">On te souhaite plein de succès dans ta recherche d'alternance&nbsp;!</mj-text>
