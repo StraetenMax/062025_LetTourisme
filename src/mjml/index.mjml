@@ -237,7 +237,7 @@
     </mj-wrapper>
     <mj-section background-color="#edd32c" padding-top="0">
       <mj-column width="100%">
-        <mj-image padding="0" width="600px" src="./images/idee2T062025.png" alt=""></mj-image>
+        <mj-image padding="0" width="600px" src="./images/idee3T062025.png" alt=""></mj-image>
       </mj-column>
       <mj-column width="88%">
         <mj-text mj-class="T18-700 cB0">Astuces bonus</mj-text>
