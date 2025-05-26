@@ -106,8 +106,8 @@
             <mj-image padding="0" width="100px" src="https://i.ibb.co/C5z4Y92L/agenda-T062025.png" alt=""/>
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
-            <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Anticipe et priorise</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Identifie ce qui est urgent et important. Prépare tes cours à l'avance, et n'attends pas la dernière minute pour réviser ou faire tes devoirs.</mj-text>
+            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T18-700 cB0">Anticipe et priorise</mj-text>
+            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0">Identifie ce qui est urgent et important. Prépare tes cours à l'avance, et n'attends pas la dernière minute pour réviser ou faire tes devoirs.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
