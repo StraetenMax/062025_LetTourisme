@@ -68,7 +68,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="100%">
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/YBdpR4pF/imag01-T062025.png" alt=""/>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/WNJqb2Xt/imag-T062025.png" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgB+2" padding="0">
@@ -248,7 +248,7 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="20px">
       <mj-column width="20%">
-        <mj-image padding="5px" align="left" width="300px" src="https://i.ibb.co/Pzz9VDz5/fete062025.png" alt=""/>
+        <mj-image padding="5px" align="left" width="300px" src="https://i.ibb.co/N2wMMW41/feuartificeoptim.gif" alt=""/>
       </mj-column>
       <mj-column width="80%">
         <mj-text padding="0 20px" mj-class="T18-400 cT1">On te souhaite <span style="font-weight:700;">plein de succès dans ta recherche d'alternance&nbsp;!</span></mj-text>
