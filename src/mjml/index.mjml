@@ -34,6 +34,7 @@
       <mj-class name="bgB0" background-color="#0d3abc"/>
       <mj-class name="cB-1" color="#787fbd"/>
       <mj-class name="c0" color="#EC6608"/>
+      <mj-class name="cR" color="#74151E"/>
       <mj-class name="bg0" background-color="#EC6608"></mj-class>
       <mj-class name="bgB-1" background-color="#787fbd"/>
       <mj-class name="cB+1" color="#423f64"/>
@@ -151,7 +152,7 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="80%" padding="20px" border-radius="10px" mj-class="bg0">
-          <mj-text padding="0 20px" mj-class="T16-400 cW"><span style="font-weight:700;">En résumé</span>, l'équilibre entre cours et alternance demande de l'organisation, de la discipline, mais aussi de la flexibilité. </mj-text>
+          <mj-text padding="0 20px" mj-class="T16-400 cW"><span style="font-weight:700;color:#74151e;">En résumé</span>, l'équilibre entre cours et alternance demande de l'organisation, de la discipline, mais aussi de la flexibilité. </mj-text>
           <mj-text padding="0 20px" mj-class="T16-400 cW">Avec une bonne gestion, tu vas y arriver&nbsp;!</mj-text>
         </mj-column>
       </mj-section>
@@ -233,9 +234,9 @@
       </mj-column>
       <mj-column width="88%">
         <mj-text mj-class="T18-700 cB0">Astuces bonus</mj-text>
-        <mj-text padding="0 20px" mj-class="T16-400 cT0">Consulte des vidéos et guides en ligne pour te préparer aux entretiens.</mj-text>
-        <mj-text padding="0 20px" mj-class="T16-400 cT0">N'hésite pas à demander conseil à ton conseiller d'orientation ou à la mission locale.</mj-text>
-        <mj-text padding="0 20px" mj-class="T16-400 cT0">Tu peux le faire&nbsp;! La clé, c'est ta motivation et ta détermination.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0"><span style="font-weight:700">Consulte des vidéos et guides en ligne</span> pour te préparer aux entretiens.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">N'hésite pas à <span style="font-weight:700">demander conseil</span> à ton <span style="font-weight:700">conseiller d'orientation</span> ou à la <span style="font-weight:700">mission locale</span>.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">Tu peux le faire&nbsp;! <span style="font-weight:700;">La clé, c'est ta motivation et ta détermination</span>.</mj-text>
         <mj-text padding="0 20px" mj-class="T16-400 cT0">Alors, fonce, prépare ton dossier, et montre ce que tu vaux&nbsp;!</mj-text>
         <mj-spacer height="40px"></mj-spacer>
       </mj-column>
@@ -247,13 +248,13 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="20px">
       <mj-column width="20%">
-        <mj-image padding="5px" align="left" width="300px" src="https://i.ibb.co/1Y1v70Hj/Camille25052024.png" alt="Camille, chargée des admissions pour le secteur tourisme"/>
+        <mj-image padding="5px" align="left" width="300px" src="https://i.ibb.co/Pzz9VDz5/fete062025.png" alt=""/>
       </mj-column>
       <mj-column width="80%">
-        <mj-text padding="0 20px" mj-class="T18-400 cW">On te souhaite plein de succès dans ta recherche d'alternance&nbsp;!</mj-text>
-        <mj-text padding="0 20px" mj-class="T18-400 cW">N'oublie pas&nbsp;: chaque étape te rapproche de ton futur professionnel. Reste positif(ve) et persévère&nbsp;! </mj-text>
-        <mj-text padding="0 20px" mj-class="T18-400 cW">Tu as toutes les cartes en main pour réussir.</mj-text>
-        <mj-text padding="0 20px" mj-class="T18-400 cW">Nous sommes là pour te soutenir à chaque étape. N'hésite pas à revenir vers nous si tu as besoin de conseils ou d'aide supplémentaire.</mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT1">On te souhaite <span style="font-weight:700;">plein de succès dans ta recherche d'alternance&nbsp;!</span></mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT1">N'oublie pas&nbsp;: chaque étape te rapproche de ton futur professionnel. <span style="font-weight:700;">Reste positif(ve) et persévère&nbsp;!</span></mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT1">Tu as toutes les cartes en main pour réussir.</mj-text>
+        <mj-text padding="0 20px" mj-class="T18-400 cT1">Nous sommes là pour te soutenir à chaque étape. <span style="font-weight:700;">N'hésite pas à revenir vers nous si tu as besoin de conseils ou d'aide supplémentaire</span>.</mj-text>
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
