@@ -56,14 +56,18 @@
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{ mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 25px">
+    <mj-section padding="25px">
+      <mj-column>
+        <mj-image align="left" padding="0" width="300px" src="https://i.ibb.co/ZpZ2KdKn/News-Letter.png" alt="logo du Newsletter"/>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgB0" padding="10px 20px">
       <mj-group>
         <mj-column width="70%" vertical-align="middle">
-          <mj-image align="left" padding="0" width="250px" src="https://i.ibb.co/ZpZ2KdKn/News-Letter.png" alt="logo du Newsletter"/>
-          <mj-text align="left" padding="0" padding-top="10px" mj-class="T16-400 cB0" text-transform="uppercase"><span style="font-weight:700;">Ecosup Tourisme</span> - Juin 2025</mj-text>
+          <mj-text align="left" padding="0" mj-class="T18-400 cW" text-transform="uppercase"><span style="font-weight:700;">Ecosup Tourisme</span> - Juin 2025</mj-text>
         </mj-column>
         <mj-column width="30%" vertical-align="middle">
-          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/x7Dh8V0/logo-ETourisme.png" alt="logo Ecosup-Tourisme"/>
+          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/JndJbtQ/Logo-Tourisme-Blanc.png" alt="logo Ecosup-Tourisme"/>
         </mj-column>
       </mj-group>
     </mj-section>
