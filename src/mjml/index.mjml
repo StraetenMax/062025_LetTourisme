@@ -92,7 +92,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Organisation, c'est la clé&nbsp;! </mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Planifie ton emploi du temps dès le début. Utilise un agenda ou une appli pour noter tes cours, tes périodes en entreprise, et tes deadlines.</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Planifie ton emploi du temps dès le début</span>. Utilise un agenda ou une appli pour noter tes cours, tes périodes en entreprise, et tes deadlines.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%" direction="rtl">
@@ -101,7 +101,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T18-700 cB0">Anticipe et priorise</mj-text>
-            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0">Identifie ce qui est urgent et important. Prépare tes cours à l'avance, et n'attends pas la dernière minute pour réviser ou faire tes devoirs.</mj-text>
+            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Identifie ce qui est urgent et important</span>. Prépare tes cours à l'avance, et n'attends pas la dernière minute pour réviser ou faire tes devoirs.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
@@ -110,7 +110,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Gère ton temps intelligemment</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Divise ton travail en petites tâches. Par exemple, un peu de révision chaque soir ou chaque matin, plutôt que tout faire à la dernière minute.</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Divise ton travail en petites tâches</span>. Par exemple, un peu de révision chaque soir ou chaque matin, plutôt que tout faire à la dernière minute.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%" direction="rtl">
@@ -119,7 +119,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T18-700 cB0">Communique avec ton tuteur ou ton professeur</mj-text>
-            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0">N'hésite pas à poser des questions, demander des conseils ou des ajustements si tu te sens débordé(e). La communication, c'est essentiel&nbsp;!</mj-text>
+            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0">N'hésite pas à poser des questions, demander des conseils ou des ajustements si tu te sens débordé(e). <span style="font-weight:700;color:#1a1a1a;">La communication, c'est essentiel&nbsp;!</span></mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
@@ -128,7 +128,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Profite de ton expérience en entreprise</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Applique ce que tu apprends en cours dans ton job, et inversement. C'est une super façon d'apprendre concrètement et de rester motivé(e).</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Applique ce que tu apprends en cours dans ton job, et inversement. <span style="font-weight:700;color:#1a1a1a;">C'est une super façon d'apprendre concrètement et de rester motivé(e)</span>.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%" direction="rtl">
@@ -137,7 +137,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T18-700 cB0">Prends soin de toi</mj-text>
-            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0">Ne néglige pas ton sommeil, ton alimentation, et tes moments de détente. Un esprit reposé est plus efficace&nbsp;!</mj-text>
+            <mj-text align="right" padding="0 20px" padding-left="0" mj-class="T16-400 cT0">Ne néglige pas ton sommeil, ton alimentation, et tes moments de détente. <span style="font-weight:700;color:#1a1a1a;">Un esprit reposé est plus efficace&nbsp;!</span></mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
@@ -146,7 +146,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Reste motivé(e) et positif(ve)</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Chaque étape te rapproche de ton objectif. Garde en tête ton projet professionnel, ça te donnera de l'énergie pour continuer.</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Chaque étape te rapproche de ton objectif</span>. Garde en tête ton projet professionnel, ça te donnera de l'énergie pour continuer.</mj-text>
           </mj-column>
         </mj-group>
       </mj-section>
@@ -185,8 +185,8 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Prépare ton dossier de champion(ne)</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">CV&nbsp;: soigne-le, mets en avant tes expériences, tes compétences, ta motivation.</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Lettre de motivation&nbsp;: personnalise-la à chaque entreprise, montre que tu es motivé(e) et que tu as envie de rejoindre leur équipe.</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">CV&nbsp;:</span> soigne-le, mets en avant tes expériences, tes compétences, ta motivation.</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Lettre de motivation&nbsp;:</span> personnalise-la à chaque entreprise, montre que tu es motivé(e) et que tu as envie de rejoindre leur équipe.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
@@ -195,7 +195,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px"> 
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Recherche, recherche, recherche&nbsp;!</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Utilise les sites spécialisés (Alternance.fr, L'Etudiant), contacte directement les entreprises, et n'oublie pas les centres d'info jeunesse ou ta mission locale.</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Utilise les <span style="font-weight:700;color:1a1a1a;">sites spécialisés</span> (Alternance.fr, L'Etudiant), contacte directement les <span style="font-weight:700;color:#1a1a1a;">entreprises</span>, et n'oublie pas les <span style="font-weight:700;color:#1a1a1a;">centres d'info jeunesse</span> ou ta <span style="font-weight:700;color:1a1a1a;">mission locale</span>.</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
@@ -204,7 +204,7 @@
           </mj-column>
           <mj-column width="85%" padding-top="10px" padding-bottom="30px">
             <mj-text padding="0 20px" padding-right="0" mj-class="T18-700 cB0">Entraîne-toi pour l'entretien</mj-text>
-            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0">Prépare tes réponses, sois confiant(e), montre ton enthousiasme. Tu peux même t'entraîner avec un ami ou devant un miroir&nbsp;!</mj-text>
+            <mj-text padding="0 20px" padding-right="0" mj-class="T16-400 cT0"><span style="font-weight:700;color:1a1a1a;">Prépare tes réponses, sois confiant(e), montre ton enthousiasme</span>. Tu peux même t'entraîner avec un ami ou devant un miroir&nbsp;!</mj-text>
           </mj-column>
         </mj-group>
         <mj-group width="88%">
@@ -234,9 +234,9 @@
       </mj-column>
       <mj-column width="88%">
         <mj-text mj-class="T18-700 cB0">Astuces bonus</mj-text>
-        <mj-text padding="0 20px" mj-class="T16-400 cT0"><span style="font-weight:700">Consulte des vidéos et guides en ligne</span> pour te préparer aux entretiens.</mj-text>
-        <mj-text padding="0 20px" mj-class="T16-400 cT0">N'hésite pas à <span style="font-weight:700">demander conseil</span> à ton <span style="font-weight:700">conseiller d'orientation</span> ou à la <span style="font-weight:700">mission locale</span>.</mj-text>
-        <mj-text padding="0 20px" mj-class="T16-400 cT0">Tu peux le faire&nbsp;! <span style="font-weight:700;">La clé, c'est ta motivation et ta détermination</span>.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Consulte des vidéos et guides en ligne</span> pour te préparer aux entretiens.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">N'hésite pas à <span style="font-weight:700;color:#1a1a1a;">demander conseil</span> à ton <span style="font-weight:700;color:#1a1a1a;">conseiller d'orientation</span> ou à la <span style="font-weight:700;color:#1a1a1a;">mission locale</span>.</mj-text>
+        <mj-text padding="0 20px" mj-class="T16-400 cT0">Tu peux le faire&nbsp;! <span style="font-weight:700;color:#1a1a1a;">La clé, c'est ta motivation et ta détermination</span>.</mj-text>
         <mj-text padding="0 20px" mj-class="T16-400 cT0">Alors, fonce, prépare ton dossier, et montre ce que tu vaux&nbsp;!</mj-text>
         <mj-spacer height="40px"></mj-spacer>
       </mj-column>
