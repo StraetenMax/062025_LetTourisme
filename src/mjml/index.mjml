@@ -16,6 +16,7 @@
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
       <mj-class name="T36-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="36px" font-weight="900"/>
+      <mj-class name="T32-900" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="40px" font-weight="900"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
       <mj-class name="T18-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="700"/>
@@ -73,8 +74,8 @@
     </mj-section>
     <mj-section mj-class="bgB+2" padding="0">
       <mj-column>
-        <mj-text mj-class="T24-700" color="#ffffff" padding-bottom="0">Spéciale Alternance 2025</mj-text>
-        <mj-text mj-class="T24-700" color="#ffffff" padding-top="0">Prêt(e) à décrocher ton contrat&nbsp;?</mj-text>
+        <mj-text mj-class="T32-900" color="#ffffff" padding-bottom="0">Spéciale Alternance 2025</mj-text>
+        <mj-text mj-class="T32-900" color="#ffffff" padding-top="0">Prêt(e) à décrocher ton contrat&nbsp;?</mj-text>
         <mj-text mj-class="T16-700" color="#ffffff" padding-top="0">Tu veux te lancer dans l'alternance mais tu ne sais pas par où commencer&nbsp;? Pas de panique, on t'a préparé un max de conseils pour que tu sois prêt(e) à foncer et à impressionner les recruteurs&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
@@ -228,9 +229,9 @@
         </mj-group>
       </mj-section>
     </mj-wrapper>
-    <mj-section background-color="#edd32c" padding="0">
+    <mj-section background-color="#E7BA2F" padding="0">
       <mj-column width="100%">
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/kVsGdSK8/idee3-T062025.png" alt=""></mj-image>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/278vC4St/ampoules-Jaune02.png" alt=""></mj-image>
       </mj-column>
       <mj-column width="88%">
         <mj-text mj-class="T18-700 cB0">Astuces bonus</mj-text>
